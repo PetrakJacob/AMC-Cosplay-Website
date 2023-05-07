@@ -1,0 +1,35 @@
+.container {
+  overflow-x: hidden;
+  grid-template-columns: repeat(10, 10%);
+  grid-template-rows: repeat(10, 10vh);
+  display: grid;
+}
+
+.backVid {
+  border-radius:30px;
+  grid-row: 1/11;
+  grid-column: 1/11;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: 1.5s;
+  filter: brightness(30%);
+}
+
+.ticketBtn {
+  z-index: 100;
+  grid-column: 1/11;
+  display: block;
+  grid-row: 5/7;
+  width: 200px;
+  height: 100px;
+  margin: auto;
+  background-color: #44f7e0;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+}
+.ticketBtn:hover {
+  background-color: #07a38f;
+  transform: scale(1.2);
+}

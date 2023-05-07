@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+  margin: 40px 20px;
+  grid-column: 1/11;
+  font-size: 25px;
+}
+
+.fullWidth{
+  grid-column: 2/10;
+  margin-bottom: 30px;
+}

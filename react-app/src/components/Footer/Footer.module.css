@@ -1,0 +1,12 @@
+.grow {
+  transition: 1s;
+}
+.grow:hover {
+  transform: scale(1.2);
+}
+
+.background {
+  padding: none;
+  margin: none;
+  border: none;
+}

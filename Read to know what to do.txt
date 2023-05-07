@@ -1,0 +1,14 @@
+to start the server, go inside "flask-server" and run main.py
+
+in react app there is a node_modules folder with all the node modules 
+needeed to run the react part
+
+appart from the default modules from "npx create-react-app"
+an additional package called "react-router-dom" was installed
+to get that, you need to run "npm install react-router-dom" inside 
+the react-app folder
+
+conclusion --> 
+run npx creat-react-app
+inside that run npm install react-router-dom
+then take the node_modules folder from that and put it in ./react-app

@@ -1,0 +1,5 @@
+.BackgroundColChg {
+  transition: 1s;
+  background-color: rgba(0, 2, 2, 0);
+  padding: 30px 0px;
+}

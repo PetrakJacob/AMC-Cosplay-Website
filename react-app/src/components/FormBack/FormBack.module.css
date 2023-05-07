@@ -1,0 +1,66 @@
+.backVid {
+  top: 0px;
+  width: 100vw;
+  height: 100vh;
+  object-fit: fill;
+  position: fixed;
+  z-index: -11111;
+  filter: brightness(40%);
+}
+
+.formCon {
+  /* min-height: 90vh; */
+  border-radius: 30px;
+  height: auto;
+  margin: 100px 5vw;
+  background-color: white;
+  grid-template-columns: repeat(10, 10%);
+  display: grid;
+}
+
+.title {
+  text-align: center;
+  margin: 40px 20px;
+  grid-column: 1/11;
+  font-size: 30px;
+}
+
+.FullWidth {
+  grid-column: 2/10;
+}
+
+.box {
+  margin: 0 4.5vw;
+  grid-column: span 5;
+  text-align: center;
+  background-color: #44f7e0;
+  border-radius: 30px;
+  height: auto;
+}
+.btn {
+  grid-column: 1/11;
+  /* text-align: center; */
+  display: block;
+  margin: 100px auto;
+  width: 200px;
+  height: 100px;
+  background-color: #44f7e0;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+}
+.btn:hover {
+  background-color: #07a38f;
+  transform: scale(1.2);
+}
+
+
+@media (max-width: 768px){
+  .box{
+    grid-column: span 10;
+    margin-bottom: 50px;
+  }
+  .btn{
+    background-color: #44f7e0;
+  }
+}

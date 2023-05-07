@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/react/css/main.c4e9e0b3.css",
+    "main.js": "/static/react/js/main.0ef010ed.js",
+    "media/amcbackground.mp4": "/static/react/media/amcbackground.7b949c19597c773d6f8c.mp4",
+    "media/Cosplay.mp4": "/static/react/media/Cosplay.bfd6a6eeaea53e51b1a9.mp4",
+    "media/mayfairWitches.jpg": "/static/react/media/mayfairWitches.9fff0ba1e8f91c7f0e41.jpg",
+    "media/walkingDead.jpg": "/static/react/media/walkingDead.f2b167cebbe45c546f76.jpg",
+    "media/darkWinds.jpg": "/static/react/media/darkWinds.25f3938be03bfee538d5.jpg",
+    "media/breakingBad.jpg": "/static/react/media/breakingBad.8ac30e20498804a8c373.jpg",
+    "media/interviewVampire.jpg": "/static/react/media/interviewVampire.863e88b2de1c88f1c2d4.jpg",
+    "media/betterCallSaul.png": "/static/react/media/betterCallSaul.2975062ee2fb3410c1a9.png",
+    "media/amcDevices.png": "/static/react/media/amcDevices.52e387b2fc897c7c911e.png",
+    "media/HQ.jpg": "/static/react/media/HQ.9fe362fd57d494e088bb.jpg",
+    "media/telephone.png": "/static/react/media/telephone.5f806a5e2d1da831d39d.png",
+    "media/clock.jpg": "/static/react/media/clock.9e99d3113b97c1737448.jpg",
+    "media/map.png": "/static/react/media/map.4d742bb08555c9ce4d83.png",
+    "media/AMC_Logo.svg": "/static/react/media/AMC_Logo.4d7a917644741511f3dad58c717b7eac.svg",
+    "media/costume.svg": "/static/react/media/costume.77084a6bb5a772b4a889d96dd2ab628c.svg",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "main.c4e9e0b3.css.map": "/static/react/css/main.c4e9e0b3.css.map",
+    "main.0ef010ed.js.map": "/static/react/js/main.0ef010ed.js.map"
+  },
+  "entrypoints": [
+    "css/main.c4e9e0b3.css",
+    "js/main.0ef010ed.js"
+  ]
+}

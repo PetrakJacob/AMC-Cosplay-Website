@@ -1,0 +1,22 @@
+.container {
+  grid-template-columns: repeat(10, 10vw);
+  grid-template-rows: repeat(10, 10vh);
+  display: grid;
+  overflow-x: hidden;
+}
+
+.backImg {
+  width: 100%;
+  height:100%;
+  grid-column: 1/11;
+  grid-row: 1/11;
+  object-fit:contain;
+}
+
+.downArrow {
+  text-align: center;
+  color: aliceblue;
+  font-size: 40px;
+  grid-row: 10;
+  grid-column: 1/11;
+}
